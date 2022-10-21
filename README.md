@@ -2,6 +2,7 @@
 
 - [Intro to Data APIs JS](https://github.com/CodingTrain/Intro-to-Data-APIs-JS)
 - [REST API Design Best Practices Handbook](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
+- [Best Practices for Scaling Your Node.js REST APIs](https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/). 
 - Diseño de APIs con Node.js | [Appdelante.com](https://appdelante.com/)
 - Miniserie sobre REST
   - ¿Qué es REST?
