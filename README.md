@@ -6,9 +6,7 @@
 - Diseño de APIs con Node.js | [Appdelante.com](https://appdelante.com/)
 
 
-- [The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication](https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/
-)
-
+- [The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication](https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/)
 
 - Miniserie sobre REST
   - ¿Qué es REST?
@@ -16,3 +14,8 @@
   
 - 📦 Programación Profesional con Objetos (Gratis): https://manuelzapata.co/objetos
 - 🌲 Principios de Diseño SOLID (Gratis): https://manuelzapata.co/mcp
+
+- REST
+- webSocket
+- GraphQL
+- tRPC 
